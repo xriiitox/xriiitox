@@ -1,6 +1,6 @@
-c#/unity, kinda ruby, python
+c#, kinda ruby, python
 
-aspiring game dev
+makes some cool stuff sometimes
 
 social media is @xriiitox on most platforms
 
