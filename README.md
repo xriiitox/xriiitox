@@ -1,4 +1,4 @@
-c#, kinda ruby, python
+c#, python
 
 makes some cool stuff sometimes
 
